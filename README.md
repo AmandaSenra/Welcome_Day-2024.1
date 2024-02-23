@@ -6,7 +6,7 @@
   <img loading="badges" src="https://img.shields.io/badge/2022.3.1_Patch%203-version?style=flat&logo=androidstudio&logoColor=%23ffff&label=Giraffe&color=%23000080"/> &nbsp
   <img loading="badges" src="https://img.shields.io/badge/Realizado-Status?style=social&logo=android&logoColor=%23000080&label=Status&labelColor=%23FFFFFF&color=%23000080"/>
 </p>
-<br>
+<br />
 
 
 # Índice 
@@ -54,20 +54,22 @@ FUNÇÃO de nome SORTEAR do tipo VIEW {
 # Autor
 
 <a href="https://github.com/AmandaSenra">
- <img src="https://github.com/AmandaSenra/Welcome_Day-2024.1/assets/94198321/84c18d33-86a7-4412-ae48-229797bd7192" width="100px;"/>
- <br>
-<sub><b>Amanda Senra</b></sub></a> <a href="https://github.com/AmandaSenra//"></a>
+  <img src="https://github.com/AmandaSenra/Welcome_Day-2024.1/assets/94198321/84c18d33-86a7-4412-ae48-229797bd7192" width="100px;" />
+  <br />
+  <sub>
+    <b>Amanda Senra</b>
+  </sub>
+</a>
 
 👋 Entre em contato!
 
-[![Linkedin Badge](https://img.shields.io/badge/Amanda%20Senra-link?style=flat&logo=linkedin&logoColor=%23FFFF&color=%230e76a8
-)](https://www.linkedin.com/in/amanda-senra-183a5526a/) 
+[![Linkedin Badge](https://img.shields.io/badge/Amanda%20Senra-link?style=flat&logo=linkedin&logoColor=%23FFFF&color=%230e76a8])](https://www.linkedin.com/in/amanda-senra-183a5526a/) 
 [![Gmail Badge](https://img.shields.io/badge/senraamanda16%40gmail.com-link?style=flat&logo=gmail&logoColor=%23FFFF&color=%23db4a39)](mailto:senraamanda16@gmail.com)
 
 # Licença
 
 <p align="center">
-  <a href="https://github.com/AmandaSenra">
+  <a href="https://github.com/AmandaSenra/Welcome_Day-2024.1/blob/master/LICENSE.md">
     <img src="https://img.shields.io/badge/license%20-%20mit?style=flat&label=MIT&color=%23D3D3D3"/>
   </a>
 </p>
