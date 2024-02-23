@@ -63,7 +63,7 @@ FUNÇÃO de nome SORTEAR do tipo VIEW {
 
 👋 Entre em contato!
 
-[![Linkedin Badge](https://img.shields.io/badge/Amanda%20Senra-link?style=flat&logo=linkedin&logoColor=%23FFFF&color=%230e76a8])](https://www.linkedin.com/in/amanda-senra-183a5526a/) 
+[![Linkedin Badge](https://img.shields.io/badge/Amanda%20Senra-link?style=flat&logo=linkedin&logoColor=%23FFFF&color=%230e76a8)](https://www.linkedin.com/in/amanda-senra-183a5526a/) 
 [![Gmail Badge](https://img.shields.io/badge/senraamanda16%40gmail.com-link?style=flat&logo=gmail&logoColor=%23FFFF&color=%23db4a39)](mailto:senraamanda16@gmail.com)
 
 # Licença
